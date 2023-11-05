@@ -1,6 +1,6 @@
 # example
 
-Example app for flutter_form_builder package
+A Flutter project with different types of forms.
 
 ## Getting Started
 
